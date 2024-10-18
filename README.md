@@ -4,7 +4,11 @@ Easily connect a Wii Nunchuck to your Badge or project with an SAO port.
 
 Follow this project at: https://hackaday.io/project/198000-sao-nunchuck
 
-A great library to access the features: https://github.com/madhephaestus/WiiChuck/
+Libraries to access the features: 
+
+https://github.com/madhephaestus/WiiChuck/
+
+https://github.com/dmadison/NintendoExtensionCtrl
 
 Hardware Version 1.0 
 
